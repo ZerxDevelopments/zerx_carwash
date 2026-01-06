@@ -1,2 +1,22 @@
-# zerx_carwash
-nopixel 4.0 inspired
+Zerx Carwash Script
+
+
+A realistic carwash script for FiveM servers using QBCore / the interact system for location interactions. This script allows players to clean their vehicles at designated carwash locations with a smooth, interactive experience.
+
+Features
+
+Ped Interaction via interact - coming soon 
+
+✅ Interact via location at the moment 
+
+✅ Multiple Carwash Locations with customizable coordinates
+
+✅ Progressbar Animation while washing vehicles
+
+✅ Customizable Prices per vehicle wash
+
+✅ Works with QBCore
+
+✅ Optimized for performance: only loads when near carwash locations
+
+✅ Server notifications when a vehicle is cleaned
