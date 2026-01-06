@@ -5,8 +5,6 @@ A realistic carwash script for FiveM servers using QBCore / the interact system 
 
 Features
 
-Ped Interaction via interact - coming soon 
-
 ✅ Interact via location at the moment 
 
 ✅ Multiple Carwash Locations with customizable coordinates
@@ -20,3 +18,6 @@ Ped Interaction via interact - coming soon
 ✅ Optimized for performance: only loads when near carwash locations
 
 ✅ Server notifications when a vehicle is cleaned
+
+
+Ped Interaction via interact - coming soon!!
