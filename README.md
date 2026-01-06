@@ -9,7 +9,7 @@ Features
 
 ✅ Multiple Carwash Locations with customizable coordinates
 
-✅ Progressbar Animation while washing vehicles
+✅ Progressbar while washing vehicles
 
 ✅ Customizable Prices per vehicle wash
 
@@ -21,3 +21,4 @@ Features
 
 
 Ped Interaction via interact - coming soon!!
+Animation while washing vehicle coming soon!!
